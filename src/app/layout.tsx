@@ -20,3 +20,16 @@ export default function RootLayout({
     </html>
   )
 }
+
+
+/*{ para meta.json
+    "index": "My Homepage",
+    "contact": "Contact Us",
+    "about": "About Us",
+    "github_link": {
+        "title": "Nextra Git",
+        "href": "https://github.com/shuding/nextra",
+        "newWindow": true
+    }
+
+},*/
